@@ -1,5 +1,5 @@
 # 项目介绍
-
+12
 ## 简介
 
 toimc社区项目是toimc团队为[《大前端》]([https://class.imooc.com/sale/webfullstack?mc_marking=1eb5ce0be2ada8da4a6387b391f00b92&mc_channel=syzcjj1](https://class.imooc.com/sale/webfullstack?mc_marking=1eb5ce0be2ada8da4a6387b391f00b92&mc_channel=syzcjj1))课程打造的完整的通用社区项目，项目包含[toimc社区-Web前端]([https://git.imooc.com/class-70/toimc-front](https://git.imooc.com/class-70/toimc-front))、[toimc社区-内容管理平台]([https://git.imooc.com/class-70/toimc-admin](https://git.imooc.com/class-70/toimc-admin))、[toimc社区-数据后台接口]([https://git.imooc.com/class-70/toimc-api](https://git.imooc.com/class-70/toimc-admin))、[toimc社区-Webapp]([https://git.imooc.com/class-70/toimc-webapp](https://git.imooc.com/class-70/toimc-webapp))、[toimc社区-小程序(wxapp)]([https://git.imooc.com/class-70/toimc-wxapp](https://git.imooc.com/class-70/toimc-wxapp))
