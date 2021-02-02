@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["othres"],{"17a9":function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"flex fly-panel fly-panel-user",attrs:{pad20:""}},[e._v("正在开发中...")])},a=[],c={name:"user-others"},r=c,l=(n("c756"),n("2877")),u=Object(l["a"])(r,s,a,!1,null,"20545e46",null);t["default"]=u.exports},c756:function(e,t,n){"use strict";var s=n("e3cb"),a=n.n(s);a.a},e3cb:function(e,t,n){}}]);
+//# sourceMappingURL=othres.296b3ebc.js.map
