@@ -8,11 +8,11 @@ WORKDIR /app
 
 COPY . .
 
-RUN npm install cnpm -g --no-progress --registry=https://registry.npm.taobao.org
+# RUN npm install cnpm -g --no-progress --registry=https://registry.npm.taobao.org
 
-RUN npm install --no-progress
+# RUN npm install --no-progress
 
-RUN npm run build
+# RUN npm run build
 
 # production stage
 FROM nginx:stable-alpine as production-stage
